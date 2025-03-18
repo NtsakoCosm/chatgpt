@@ -1,0 +1,1388 @@
+[
+  {
+    "eventType": "MouseMove",
+    "details": "X: 151 Y: 0",
+    "annotation": null,
+    "timeElapsed": 1504
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 153 Y: 3",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 154 Y: 4",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 156 Y: 5",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 158 Y: 8",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 162 Y: 11",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 163 Y: 12",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 167 Y: 16",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 170 Y: 17",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 173 Y: 20",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 176 Y: 23",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 178 Y: 26",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 183 Y: 27",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 187 Y: 30",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 190 Y: 32",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 193 Y: 33",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 196 Y: 35",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 200 Y: 38",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 203 Y: 38",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 207 Y: 39",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 210 Y: 42",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 211 Y: 43",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 213 Y: 44",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 216 Y: 46",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 219 Y: 46",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 220 Y: 48",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 223 Y: 48",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 226 Y: 51",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 228 Y: 53",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 229 Y: 54",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 232 Y: 56",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 235 Y: 56",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 236 Y: 59",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 239 Y: 60",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 241 Y: 60",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 243 Y: 63",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 245 Y: 64",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 246 Y: 64",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 248 Y: 64",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 249 Y: 66",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 249 Y: 67",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 251 Y: 68",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 251 Y: 69",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 252 Y: 70",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 255 Y: 70",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 255 Y: 71",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 257 Y: 73",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 258 Y: 74",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 260 Y: 74",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 261 Y: 76",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 262 Y: 76",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 263 Y: 77",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 266 Y: 79",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 267 Y: 80",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 268 Y: 80",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 269 Y: 81",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 271 Y: 82",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 273 Y: 83",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 274 Y: 84",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 275 Y: 86",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 277 Y: 87",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 280 Y: 88",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 281 Y: 89",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 284 Y: 92",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 287 Y: 93",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 289 Y: 96",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 291 Y: 97",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 293 Y: 99",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 298 Y: 102",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 300 Y: 104",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 303 Y: 107",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 306 Y: 110",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 309 Y: 113",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 312 Y: 117",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 315 Y: 120",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 318 Y: 123",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 319 Y: 124",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 321 Y: 127",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 324 Y: 130",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 327 Y: 133",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 328 Y: 134",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 136",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 332 Y: 139",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 335 Y: 140",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 336 Y: 143",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 339 Y: 144",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 340 Y: 146",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 343 Y: 148",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 344 Y: 149",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 345 Y: 150",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 346 Y: 152",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 349 Y: 153",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 349 Y: 155",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 350 Y: 156",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 352 Y: 159",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 352 Y: 160",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 353 Y: 163",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 355 Y: 164",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 356 Y: 165",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 356 Y: 166",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 358 Y: 167",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 358 Y: 170",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 359 Y: 171",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 361 Y: 172",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 173",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 174",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 176",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 363 Y: 176",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 364 Y: 178",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 365 Y: 179",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 366 Y: 180",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 366 Y: 182",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 366 Y: 183",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 183",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 184",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 185",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 186",
+    "annotation": null,
+    "timeElapsed": 20
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 187",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 188",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 189",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 191",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 192",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 370 Y: 192",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 370 Y: 193",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 370 Y: 194",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 370 Y: 195",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 196",
+    "annotation": null,
+    "timeElapsed": 16
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 197",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 199",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 200",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 201",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 202",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 203",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 204",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 205",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 207",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 209",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 212",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 214",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 218",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 371 Y: 221",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 224",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 225",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 226",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 229",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 230",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 231",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 232",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 369 Y: 234",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 237",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 238",
+    "annotation": null,
+    "timeElapsed": 10
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 239",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 240",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 242",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 368 Y: 244",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 245",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 246",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 249",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 367 Y: 251",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 365 Y: 253",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 365 Y: 254",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 364 Y: 255",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 364 Y: 256",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 363 Y: 257",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 363 Y: 259",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 261",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 262",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 362 Y: 264",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 361 Y: 265",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 361 Y: 266",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 361 Y: 268",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 269",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 271",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 272",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 273",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 275",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 276",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 277",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 278",
+    "annotation": null,
+    "timeElapsed": 22
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 360 Y: 279",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 359 Y: 279",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 359 Y: 280",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 357 Y: 280",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 357 Y: 281",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 358 Y: 281",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 357 Y: 283",
+    "annotation": null,
+    "timeElapsed": 9
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 357 Y: 284",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 356 Y: 284",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 356 Y: 285",
+    "annotation": null,
+    "timeElapsed": 21
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 355 Y: 286",
+    "annotation": null,
+    "timeElapsed": 17
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 354 Y: 288",
+    "annotation": null,
+    "timeElapsed": 11
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 353 Y: 290",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 352 Y: 291",
+    "annotation": null,
+    "timeElapsed": 22
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 350 Y: 291",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 350 Y: 292",
+    "annotation": null,
+    "timeElapsed": 5
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 350 Y: 293",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 349 Y: 294",
+    "annotation": null,
+    "timeElapsed": 16
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 349 Y: 295",
+    "annotation": null,
+    "timeElapsed": 13
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 348 Y: 295",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 347 Y: 296",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 347 Y: 298",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 346 Y: 298",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 346 Y: 299",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 345 Y: 299",
+    "annotation": null,
+    "timeElapsed": 6
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 344 Y: 300",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 343 Y: 300",
+    "annotation": null,
+    "timeElapsed": 21
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 341 Y: 300",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 341 Y: 301",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 340 Y: 301",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 340 Y: 302",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 339 Y: 302",
+    "annotation": null,
+    "timeElapsed": 14
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 338 Y: 302",
+    "annotation": null,
+    "timeElapsed": 22
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 337 Y: 302",
+    "annotation": null,
+    "timeElapsed": 13
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 336 Y: 302",
+    "annotation": null,
+    "timeElapsed": 22
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 335 Y: 302",
+    "annotation": null,
+    "timeElapsed": 21
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 333 Y: 303",
+    "annotation": null,
+    "timeElapsed": 28
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 332 Y: 304",
+    "annotation": null,
+    "timeElapsed": 21
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 332 Y: 306",
+    "annotation": null,
+    "timeElapsed": 49
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 332 Y: 305",
+    "annotation": null,
+    "timeElapsed": 8
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 332 Y: 306",
+    "annotation": null,
+    "timeElapsed": 7
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 305",
+    "annotation": null,
+    "timeElapsed": 42
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 304",
+    "annotation": null,
+    "timeElapsed": 282
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 306",
+    "annotation": null,
+    "timeElapsed": 113
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 305",
+    "annotation": null,
+    "timeElapsed": 15
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 331 Y: 306",
+    "annotation": null,
+    "timeElapsed": 13
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 330 Y: 307",
+    "annotation": null,
+    "timeElapsed": 21
+  },
+  {
+    "eventType": "MouseMove",
+    "details": "X: 329 Y: 307",
+    "annotation": null,
+    "timeElapsed": 64
+  },
+  {
+    "eventType": "MouseClick",
+    "details": "Button: 0 X: 329 Y: 307",
+    "annotation": null,
+    "timeElapsed": 58
+  },
+  {
+    "eventType": "KeyDown",
+    "details": "Key: Backspace",
+    "annotation": "press",
+    "timeElapsed": 1159
+  },
+  {
+    "eventType": "KeyDown",
+    "details": "Key: ControlLeft",
+    "annotation": "press",
+    "timeElapsed": 6373
+  },
+  {
+    "eventType": "KeyDown",
+    "details": "Key: KeyV",
+    "annotation": "type",
+    "timeElapsed": 263
+  }
+]
