@@ -33,7 +33,7 @@ async def gptWrapper(inputText):
         
             
         
-        channel="chrome",                   
+                          
         headless=False
     )  
         page = await  browser.new_page()
